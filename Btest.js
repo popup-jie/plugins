@@ -12,7 +12,7 @@
                 }
             },
             GetStyle: function (obj, attr) {
-                //return this.Int(this.Style(obj, attr));
+                //return this.Int(this.Style(obj, attr)); 
             }
         };
         return a;
